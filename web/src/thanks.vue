@@ -3,7 +3,9 @@
     <div class="panel-heading">一键领取手气最佳红包</div>
     <div class="panel-body">
       <p>饿了么、美团均已失效，感谢大家这段时间以来的支持</p>
-      <p><a href="https://github.com/game-helper/hongbao/issues/45" target="_blank">点击这里查看网站统计数据</a></p>
+      <p>新版红包辅助已上线！！！</p>
+      <p><a href="https://github.com/game-helper/hongbao2" target="_blank">https://github.com/game-helper/hongbao2</a></p>
+      <p><a href="http://www.mtdhb.com/" target="_blank">http://www.mtdhb.com/</a></p>
       <button type="button" class="btn btn-danger ali-hongbao-m">支付宝天天领红包</button>
       <div class="ali-hongbao-pc">
         <img src="./static/alihongbao.jpg">
