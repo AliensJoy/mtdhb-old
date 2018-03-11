@@ -55,7 +55,10 @@
     <td align="center" width="250">
       <img src="web/src/static/qrcode.jpg"><p>请加上面的微信号邀请你入群</p>
     </td>
-    <td align="center" width="250"><a href="https://shang.qq.com/wpa/qunwpa?idkey=ce7ff4d1b5050c3bafff8f16c3cae4b1eec37916053865b86527347d680e03ec">246080018</a></td>
+    <td align="center" width="250">
+      <a href="https://shang.qq.com/wpa/qunwpa?idkey=ce7ff4d1b5050c3bafff8f16c3cae4b1eec37916053865b86527347d680e03ec">246080018（满）</a>
+      <a href="https://shang.qq.com/wpa/qunwpa?idkey=c897fa012682ff216e4256fad51df70ee6c6695813cff065371e262302da62f9">583997433（新）</a>
+    </td>
   </tr>
 </table>
 
