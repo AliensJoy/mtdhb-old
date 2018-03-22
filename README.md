@@ -8,8 +8,8 @@
 
 **饿了么、美团均已失效，感谢大家这段时间以来的支持**
 
-- [失效公告 & 讨论区](https://github.com/game-helper/hongbao/issues/45)
-- [新版红包辅助](https://github.com/game-helper/hongbao2)
+- [issues/45](https://github.com/game-helper/hongbao/issues/45) - 失效公告 & 讨论区
+- [game-helper/hongbao2](https://github.com/game-helper/hongbao2) - 新版红包辅助
 
 > 仅供学习交流之用，请勿用于非法用途，否则产生的一切后果自行承担
 
@@ -43,25 +43,6 @@
 - [chengzijian/ai-hongbao](https://github.com/chengzijian/ai-hongbao) - 微信机器人号领外卖红包（python）
 - [lt94/package-qqbot](https://github.com/lt94/package-qqbot) - qq 机器人号领外卖红包（python）
 - [a631807682/eleme-cookies-robot](https://github.com/a631807682/eleme-cookies-robot) - 饿了么红包 cookie 提取工具（nodejs）
-
-## 交流群
-
-<table>
-  <tr>
-    <th>微信群</th>
-    <th>QQ 群</th>
-  </tr>
-  <tr></tr>
-  <tr>
-    <td align="center" width="250">
-      <img src="https://user-images.githubusercontent.com/8413791/37555596-dfdc7a86-2a24-11e8-970a-93871e8f2836.png"><p>请加上面的微信号邀请你入群</p>
-    </td>
-    <td align="center" width="250">
-      <a href="https://shang.qq.com/wpa/qunwpa?idkey=ce7ff4d1b5050c3bafff8f16c3cae4b1eec37916053865b86527347d680e03ec">246080018（满）</a>
-      <a href="https://shang.qq.com/wpa/qunwpa?idkey=c897fa012682ff216e4256fad51df70ee6c6695813cff065371e262302da62f9">583997433（新）</a>
-    </td>
-  </tr>
-</table>
 
 ## 捐赠
 
