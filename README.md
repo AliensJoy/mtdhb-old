@@ -42,7 +42,7 @@
 - [dj940212/hongbao-bot](https://github.com/dj940212/hongbao-bot) - 外卖红包微信机器人（nodejs）
 - [chengzijian/ai-hongbao](https://github.com/chengzijian/ai-hongbao) - 微信机器人号领外卖红包（python）
 - [lt94/package-qqbot](https://github.com/lt94/package-qqbot) - qq 机器人号领外卖红包（python）
-- [a631807682/eleme-cookies-robot](https://github.com/a631807682/eleme-cookies-robot) - 饿了么红包 cookie 提取工具（nodejs）
+- [game-helper/hongbao2-cookie](https://github.com/game-helper/hongbao2-cookie) - 美团、饿了么红包 cookie 一键提取工具（nodejs）
 
 ## 捐赠
 
