@@ -5,7 +5,7 @@
       <p>饿了么、美团均已失效，感谢大家这段时间以来的支持</p>
       <p>新版红包辅助已上线！！！</p>
       <p><a href="https://github.com/game-helper/hongbao2" target="_blank">https://github.com/game-helper/hongbao2</a></p>
-      <p><a href="http://www.mtdhb.com/" target="_blank">http://www.mtdhb.com/</a></p>
+      <p><a href="https://www.mtdhb.com/" target="_blank">https://www.mtdhb.com/</a></p>
       <button type="button" class="btn btn-danger ali-hongbao-m">支付宝天天领红包</button>
       <div class="ali-hongbao-pc">
         <img src="./static/alihongbao.jpg">
