@@ -4,7 +4,7 @@
 [![Sync Gitee](https://img.shields.io/badge/sync-gitee-green.svg)](https://gitee.com/game-helper/eleme)
 [![Build Status](https://travis-ci.org/game-helper/hongbao.svg?branch=master)](https://travis-ci.org/game-helper/hongbao)
 
-一键领取饿了么、美团手气最佳红包 http://www.elemhb.top/
+一键领取饿了么、美团手气最佳红包
 
 **饿了么、美团均已失效，感谢大家这段时间以来的支持**
 
@@ -19,19 +19,16 @@
   <tr>
     <td>服务端</td>
     <td><a href="server">server</a></td>
-    <td>https://hongbao.xxooweb.com/</td>
   </tr>
   <tr></tr>
   <tr>
     <td>网页端</td>
     <td><a href="web">web</a></td>
-    <td>http://www.elemhb.top/</td>
   </tr>
   <tr></tr>
   <tr>
     <td>小程序</td>
     <td><a href="weapp">weapp</a></td>
-    <td>微信审核被拒了，先晾着吧</td>
   </tr>
 </table>
 

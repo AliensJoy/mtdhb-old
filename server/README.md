@@ -1,6 +1,6 @@
 # hongbao/server
 
-服务端 https://hongbao.xxooweb.com/
+服务端
 
 ## 开发与部署
 
